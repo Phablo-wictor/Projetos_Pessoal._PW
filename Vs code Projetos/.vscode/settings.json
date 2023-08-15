@@ -1,0 +1,4 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "dotnet.defaultSolution": "C#/C#.sln"
+}
