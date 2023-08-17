@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "Vs code Projetos_c843b337"
+        },
+        {
+            "type": "java",
+            "name": "loop",
+            "request": "launch",
+            "mainClass": "Java.loop",
+            "projectName": "Vs code Projetos_c843b337"
+        },
+        {
+            "type": "java",
             "name": "swicht",
             "request": "launch",
             "mainClass": "Java.swicht",

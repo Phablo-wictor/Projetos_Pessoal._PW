@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "p:\\VS-Code-Projetos-git-main\\Vs code Projetos\\C#\\C#.csproj",
+      "projectUniqueName": "p:\\VS-Code-Projetos\\Projetos_Pessoal._PW\\Vs code Projetos\\C#\\C#.csproj",
       "projectName": "C#",
-      "projectPath": "p:\\VS-Code-Projetos-git-main\\Vs code Projetos\\C#\\C#.csproj",
+      "projectPath": "p:\\VS-Code-Projetos\\Projetos_Pessoal._PW\\Vs code Projetos\\C#\\C#.csproj",
       "packagesPath": "C:\\Users\\Phablo Wictor\\.nuget\\packages\\",
-      "outputPath": "p:\\VS-Code-Projetos-git-main\\Vs code Projetos\\C#\\obj\\",
+      "outputPath": "p:\\VS-Code-Projetos\\Projetos_Pessoal._PW\\Vs code Projetos\\C#\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "P:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
