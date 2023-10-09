@@ -1,7 +1,7 @@
 class Animal {
     
     int tamanho;
-    String cor;
+    protected String cor;
     double peso;
 
     void dormir(){

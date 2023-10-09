@@ -1,24 +1,20 @@
-public class main {
-
+public class Main {
     public static void main(String[] args) {
-
+        
         Animal animal = new Animal();
+        animal.cor = "Azul";
 
-        animal.correr();
 
-        passaro arrara = new passaro();
 
-        arrara.dormir();
+
+
+
 
         /*
-         * Funcionario funcionario1 = new Funcionario();
-         * 
-         * funcionario1.nome = "Phablo" ;
-         * funcionario1.salario = 7000 ;
-         * 
-         * double SalarioRecuperado = funcionario1.recuperaSalrio(400, 120);
-         * System.out.println("O salrio de Phablo é " + SalarioRecuperado);
-         */
+        Conta conta = new Conta();
+        conta.depositar(100);
+        conta.sacar(50);
+        System.out.println(conta.recuperarSaldo());
+        */
     }
-
 }
